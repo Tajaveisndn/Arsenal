@@ -1,4 +1,4 @@
-# Arsenal
+
 -- Configurações Iniciais
 getgenv().AimbotEnabled = false
 getgenv().TeamCheck = false
